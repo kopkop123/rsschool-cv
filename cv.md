@@ -18,7 +18,7 @@
 [Experience](https://hh.ua/resume/1778b492ff01a318c80039ed1f616b686c7179)
 
 ## Education
-Donetsk National Technical University
+Donetsk National Technical University<br>
 Faculty of Computer Science and Technology, Artificial intelligence systems
 
 ## English
