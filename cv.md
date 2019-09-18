@@ -21,3 +21,5 @@
 Donetsk National Technical University
 Faculty of Computer Science and Technology, Artificial intelligence systems
 
+## English
+Pre-intermidiate (lingualeo, individual lessons, reading articles)
